@@ -131,4 +131,7 @@
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cloudbees$go_test_github_com_sdoshi579_cloudbees_internal_service_post.out" NAME="go test github.com/sdoshi579/cloudbees/internal/service/post Coverage Results" MODIFIED="1715415213714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
 </project>
